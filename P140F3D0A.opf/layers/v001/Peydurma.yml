@@ -4,12 +4,13 @@ revision: '00001'
 annotations:
   19ac737cfa7b4b698bf069c3a4cb1935:
     span:
-      start: 7302
-      end: 7302
+      start: 6967
+      end: 6967
   142967ee64f1467c90ae76783fad3164:
     span:
       start: 7616
       end: 7616
+      fail_update: both
 local_ids:
   19ac737cfa7b4b698bf069c3a4cb1935: 200000
   142967ee64f1467c90ae76783fad3164: 200001
